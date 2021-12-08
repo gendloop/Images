@@ -1,2 +1,2 @@
 # Images
-store images
+store images for PicGo
